@@ -1,7 +1,7 @@
 ### Hi there, I'm Syed Zain Ali  👋 
 
-[![Website](https://img.icons8.com/color/48/000000/linkedin.png)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/zain_shah412/)
+[![Lindedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/syed-zain-ali-0a5aa6140)
+<!-- [![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/zain_shah412/) -->
 
 ## I'm a Son, Developer, and Tekken Lover!!
 
@@ -15,12 +15,14 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/ios-filled/50/000000/facebook--v1.png" />][facebook]
 
 
 <br />
 
 [instagram]: https://www.instagram.com/zain_shah412
 [linkedin]:  https://www.linkedin.com/in/syed-zain-ali-0a5aa6140
+[facebook]: https://www.facebook.com/zainshah.zainshah.5
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
