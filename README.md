@@ -21,12 +21,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
+[<img align="left" alt="Java" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjava_226777&psig=AOvVaw2dSU2p08RQs-Pd2Shrna2W&ust=1641670349917000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIji3uKwoPUCFQAAAAAdAAAAABAD" />][]
+[<img align="left" alt="Kotlin" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AKotlin_Icon.png&psig=AOvVaw14WoBuhMr-TXkd65au4S6Q&ust=1641670517463000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKio1rSxoPUCFQAAAAAdAAAAABAD" />][]
+[<img align="left" alt="SQLite" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fplay-lh.googleusercontent.com%2F7zJz7OCJLhg40RqA9qmhu9Tgy6QiEYRzVhOtmKkFbQeayDVoaohaW7CSjhde7P8ts79Y&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dselimsql.sqlite%26hl%3Den_US%26gl%3DUS&tbnid=DH3FI7WOkobvVM&vet=12ahUKEwjivbLGsaD1AhUO7xoKHVByC_gQMygJegUIARDJAQ..i&docid=T9mbKxkaJcvpIM&w=512&h=512&itg=1&q=sqlite%20icon&client=firefox-b-d&ved=2ahUKEwjivbLGsaD1AhUO7xoKHVByC_gQMygJegUIARDJAQ" />][]
+[<img align="left" alt="Swift" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fswift-21-1175088.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fswift-21&tbnid=IS-OrLFPWy1E4M&vet=12ahUKEwjT3tPYsaD1AhXUgHMKHYHcDbEQMygBegUIARDLAQ..i&docid=PtIV8VZ1AsR-kM&w=256&h=256&itg=1&q=Swift%20icon&client=firefox-b-d&ved=2ahUKEwjT3tPYsaD1AhXUgHMKHYHcDbEQMygBegUIARDLAQ" />][]
+[<img align="left" alt="XML" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Fxml-file-2330558-1950399.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficon%2Fxml-file-2330558&tbnid=XOU4tseE6lVIgM&vet=12ahUKEwja69frsaD1AhUSmRoKHRKgBr0QMygAegUIARDSAQ..i&docid=_WgiVseQJLM9HM&w=256&h=256&itg=1&q=xml%20icon&client=firefox-b-d&ved=2ahUKEwja69frsaD1AhUSmRoKHRKgBr0QMygAegUIARDSAQ" />][]
+[<img align="left" alt="Android Studio" width="26px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe3%2FAndroid_Studio_Icon_%25282014-2019%2529.svg%2F1200px-Android_Studio_Icon_%25282014-2019%2529.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAndroid_Studio_Icon_(2014-2019).svg&tbnid=uZD3B96uI1WybM&vet=12ahUKEwjI9ueLsqD1AhVB4hoKHczkAPAQMygAegUIARDZAQ..i&docid=cJ6EvKAQSpcfpM&w=1200&h=1296&itg=1&q=android%20studio%20icon&client=firefox-b-d&ved=2ahUKEwjI9ueLsqD1AhVB4hoKHczkAPAQMygAegUIARDZAQ" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
@@ -40,56 +41,6 @@
 
 <br />
 <br />
-
----
-
-<!-- ### 📺 Latest YouTube Videos -->
-
-<!-- YOUTUBE:START -->
-<!-- - [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-- [STACKr News Weekly: 2022 Web Dev Roadmap 🛣, Sabotaging your career? 🐱‍👤, It&#39;s ok to take a break 🏖](https://www.youtube.com/watch?v=zrEKyscb15A)
-- [NEW!! Web Developer Roadmap 2022 | Ultimate Guide To Starting A Career In Web Development](https://www.youtube.com/watch?v=7uJGjbkp0-U) -->
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/15) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/13) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/12) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [instagram]: https://www.instagram.com/zain_shah412
