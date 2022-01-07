@@ -1,6 +1,6 @@
 ### Hi there, I'm Syed Zain Ali  👋 
 
-[![Website](https://icons8.com/icon/13930/linkedin)](https://codestackr.com)
+[![Website](https://img.icons8.com/color/48/000000/linkedin.png)](https://codestackr.com)
 [![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/zain_shah412/)
 
 ## I'm a Son, Developer, and Tekken Lover!!
