@@ -90,9 +90,10 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-[instagram]: https://www.instagram.com/zain_shah412
-[linkedin]:  www.linkedin.com/in/syed-zain-ali-0a5aa6140
 
+
+[instagram]: https://www.instagram.com/zain_shah412
+[linkedin]:  https://www.linkedin.com/in/syed-zain-ali-0a5aa6140
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
